@@ -1,0 +1,3 @@
+[submodule "debiaswe"]
+	path = debiaswe
+	url = https://github.com/tolga-b/debiaswe.git
